@@ -1,0 +1,101 @@
+[
+  {
+    "id": "BsMXsjlf/UV+OSlHlteq75G59uU=",
+    "mf": "C2H5OCl",
+    "idCodeHash": "a3b373f45dc7fa5e0c561c2d1482a5b6",
+    "file": "./20_simple/120_Exercise 12/index.json",
+    "title": "Exercise 12",
+    "selected": true
+  },
+  {
+    "id": "Jp3KqJMTN6U83i9PJfOldJE4Puw=",
+    "mf": "C4H6O3",
+    "idCodeHash": "40a16101c85ae1c4462de57babd25a96",
+    "file": "./20_simple/130_Exercise 13/index.json",
+    "title": "Exercise 13"
+  },
+  {
+    "id": "dUmUk/9/Kn040TL0QsTcl3fbiSw=",
+    "mf": "C5H12",
+    "idCodeHash": "8012fe1304e48eb65e76d65a7148091e",
+    "file": "./20_simple/150_Exercise 15/index.json",
+    "title": "Exercise 15"
+  },
+  {
+    "id": "0oPMVaNxXA30rXoSQLZYZ2Ys8b0=",
+    "mf": "C7H14O",
+    "idCodeHash": "3858c02a9280544ebe20a8fa941e7e4c",
+    "file": "./20_simple/160_Exercise 16/index.json",
+    "title": "Exercise 16"
+  },
+  {
+    "id": "Lus7xq/WgMcysJLHxzI+7p19KSo=",
+    "mf": "C8H16",
+    "idCodeHash": "4d1c0d57abfc26d586246ef91313fcd8",
+    "file": "./20_simple/190_Exercise 19/index.json",
+    "title": "Exercise 19"
+  },
+  {
+    "id": "PaNqeiT9QOe61w419+n2y84icn4=",
+    "mf": "C5H12O",
+    "idCodeHash": "2fe69d67d9a21e966d21261c792059ce",
+    "file": "./20_simple/230_Exercise 23/index.json",
+    "title": "Exercise 23"
+  },
+  {
+    "id": "w/p2vlJrtRl9iRw76UYGaw8TlQQ=",
+    "mf": "C7H16",
+    "idCodeHash": "7f6d3ab725d0c458068521d605949c13",
+    "file": "./20_simple/260_Exercise 26/index.json",
+    "title": "Exercise 26"
+  },
+  {
+    "id": "RLZNWqVnw7YvsKvlrFPlKHzfCBQ=",
+    "mf": "C5H12O",
+    "idCodeHash": "f3c4b40ca0747e08f1feb15e23024599",
+    "file": "./20_simple/280_Exercise 28/index.json",
+    "title": "Exercise 28"
+  },
+  {
+    "id": "4cOpGrzDgcVsQWXR0KIMCRnK5IU=",
+    "mf": "C6H7N",
+    "idCodeHash": "22b8ece809c9eca8be5f7a1668f7e047",
+    "file": "./20_simple/310_Exercise 31/index.json",
+    "title": "Exercise 31"
+  },
+  {
+    "id": "I/W7Wxsi6c+JLIDcWXwevIipGQc=",
+    "mf": "C6H14O2",
+    "idCodeHash": "68c2b9428f12f3f25f6e9e6d183c7c20",
+    "file": "./20_simple/320_Exercise 32/index.json",
+    "title": "Exercise 32"
+  },
+  {
+    "id": "bTqgHn4al/wWkzgs7ObhbB+k6uI=",
+    "mf": "C6H14O2",
+    "idCodeHash": "b953849d9f17c64a5cfb0e05342abda6",
+    "file": "./20_simple/340_Exercise 34/index.json",
+    "title": "Exercise 34"
+  },
+  {
+    "id": "eM2M51OfNbfCDaMUszal5OzkV9s=",
+    "mf": "C4H10O",
+    "idCodeHash": "a56743292f9a47b988343c345ead8df0",
+    "file": "./20_simple/350_Exercise 35/index.json",
+    "title": "Exercise 35"
+  },
+  {
+    "id": "uvj5cqGsSEVbeGzZtRfN7i4oep0=",
+    "mf": "C8H8O2",
+    "idCodeHash": "10f9e64bba7eb8cce94503c5e4856335",
+    "file": "./20_simple/370_Exercise 37/index.json",
+    "title": "Exercise 37"
+  },
+  {
+    "id": "vBO6rWP94CnlXqCkOqC5i2kAMqY=",
+    "mf": "C8H8O3",
+    "idCodeHash": "b517d7b69eeae62a684b4ceb496f9811",
+    "file": "./20_simple/380_Exercise 38/index.json",
+    "title": "Exercise 38"
+  }
+]
