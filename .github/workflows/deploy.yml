@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Use Node.js
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
           node-version: 20
       - name: install nmrium and create toc
@@ -21,6 +21,7 @@ jobs:
           nmrium createExercisesTOC -i true
           nmrium deleteStructures
           nmrium appendLinks
+          nmrium createExercisesCorrection
           git status
           git remote -v
       - name: push to gh-pages
