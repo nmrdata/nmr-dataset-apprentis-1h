@@ -1,0 +1,19 @@
+<svg id="mol10" xmlns="http://www.w3.org/2000/svg" version="1.1" width="58px" height="54px" viewBox="118 73 58 54">
+  <style> text {font-family: sans-serif;} #mol10 { pointer-events:none; } #mol10 .event  { pointer-events:all; } line { stroke-linecap:round; } polygon { stroke-linejoin:round; } </style>
+  <text x="126.09" y="92.67" stroke="none" font-size="14" fill="rgb(255,13,13)">O</text>
+  <line x1="131.53" y1="95" x2="131.53" y2="112" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="137.98" y1="85.91" x2="154.36" y2="80.58" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="131.53" y1="112" x2="154.36" y2="119.42" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="154.36" y1="80.58" x2="168.47" y2="100" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="154.36" y1="119.42" x2="168.47" y2="100" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line id="mol10:Bond:0" class="event" x1="131.53" y1="88" x2="131.53" y2="112" stroke-width="8" opacity="0" />
+  <line id="mol10:Bond:1" class="event" x1="131.53" y1="88" x2="154.36" y2="80.58" stroke-width="8" opacity="0" />
+  <line id="mol10:Bond:2" class="event" x1="131.53" y1="112" x2="154.36" y2="119.42" stroke-width="8" opacity="0" />
+  <line id="mol10:Bond:3" class="event" x1="154.36" y1="80.58" x2="168.47" y2="100" stroke-width="8" opacity="0" />
+  <line id="mol10:Bond:4" class="event" x1="154.36" y1="119.42" x2="168.47" y2="100" stroke-width="8" opacity="0" />
+  <circle id="mol10:Atom:0" class="event" cx="131.53" cy="88" r="8" opacity="0" />
+  <circle id="mol10:Atom:1" class="event" cx="131.53" cy="112" r="8" opacity="0" />
+  <circle id="mol10:Atom:2" class="event" cx="154.36" cy="80.58" r="8" opacity="0" />
+  <circle id="mol10:Atom:3" class="event" cx="154.36" cy="119.42" r="8" opacity="0" />
+  <circle id="mol10:Atom:4" class="event" cx="168.47" cy="100" r="8" opacity="0" />
+</svg>

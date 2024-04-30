@@ -1,0 +1,12 @@
+<svg id="mol3" xmlns="http://www.w3.org/2000/svg" version="1.1" width="72px" height="34px" viewBox="114 87 72 34">
+  <style> text {font-family: sans-serif;} #mol3 { pointer-events:none; } #mol3 .event  { pointer-events:all; } line { stroke-linecap:round; } polygon { stroke-linejoin:round; } </style>
+  <text x="164.18" y="110.67" stroke="none" font-size="14" fill="rgb(31,240,31)">Cl</text>
+  <text x="122.61" y="110.67" stroke="none" font-size="14" fill="rgb(31,240,31)">Cl</text>
+  <line x1="163.18" y1="101.61" x2="150" y2="94" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="150" y1="94" x2="136.82" y2="101.61" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line id="mol3:Bond:0" class="event" x1="170.78" y1="106" x2="150" y2="94" stroke-width="8" opacity="0" />
+  <line id="mol3:Bond:1" class="event" x1="150" y1="94" x2="129.22" y2="106" stroke-width="8" opacity="0" />
+  <circle id="mol3:Atom:0" class="event" cx="170.78" cy="106" r="8" opacity="0" />
+  <circle id="mol3:Atom:1" class="event" cx="150" cy="94" r="8" opacity="0" />
+  <circle id="mol3:Atom:2" class="event" cx="129.22" cy="106" r="8" opacity="0" />
+</svg>

@@ -1,0 +1,13 @@
+<svg id="mol15" xmlns="http://www.w3.org/2000/svg" version="1.1" width="69px" height="29px" viewBox="113 86 69 29">
+  <style> text {font-family: sans-serif;} #mol15 { pointer-events:none; } #mol15 .event  { pointer-events:all; } line { stroke-linecap:round; } polygon { stroke-linejoin:round; } </style>
+  <text x="120.95" y="104.67" stroke="none" font-size="14" fill="rgb(48,80,248)">N</text>
+  <line x1="132.05" y1="100" x2="150" y2="100" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="132.05" y1="103.6" x2="150" y2="103.6" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="132.05" y1="96.4" x2="150" y2="96.4" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line x1="150" y1="100" x2="174" y2="100" stroke="rgb(0,0,0)" stroke-width="1.44" />
+  <line id="mol15:Bond:0" class="event" x1="126" y1="100" x2="150" y2="100" stroke-width="8" opacity="0" />
+  <line id="mol15:Bond:1" class="event" x1="150" y1="100" x2="174" y2="100" stroke-width="8" opacity="0" />
+  <circle id="mol15:Atom:0" class="event" cx="126" cy="100" r="8" opacity="0" />
+  <circle id="mol15:Atom:1" class="event" cx="150" cy="100" r="8" opacity="0" />
+  <circle id="mol15:Atom:2" class="event" cx="174" cy="100" r="8" opacity="0" />
+</svg>
